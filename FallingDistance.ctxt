@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Oct 04 23:22:00 PDT 2026
+comment0.target=FallingDistance
+comment0.text=\r\n Program Description\r\n 1) Fill in steps\r\n \r\n @author Name, optional email\r\n @version v1.0\r\n @since date\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.params=numOfSecs
+comment2.target=double getDistance(int)
+comment2.text=\r\n This will calculate the distance per second.\r\n @param numOfSecs the number of seconds to be used in calculating distance\r\n @return The result in meters of multiplying the number of seconds by itself times acceleration times one half\r\n
+numComments=3

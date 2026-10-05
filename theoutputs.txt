@@ -1,0 +1,87 @@
+Pleaser enter how many seconds to compute: 
+5
+Time(secs) Distance(m)
+========================================
+0           0.0
+1           4.9
+2           19.6
+3           44.1
+4           78.4
+Pleaser enter how many seconds to compute: 
+10
+Time(secs) Distance(m)
+========================================
+1           4.9
+2           19.6
+3           44.1
+4           78.4
+5           122.50000000000001
+6           176.4
+7           240.10000000000002
+8           313.6
+9           396.90000000000003
+10           490.00000000000006
+Pleaser enter how many seconds to compute: 
+10
+Time(secs) Distance(m)
+========== ===========
+1           4.9
+2           19.6
+3           44.1
+4           78.4
+5           122.50000000000001
+6           176.4
+7           240.10000000000002
+8           313.6
+9           396.90000000000003
+10           490.00000000000006
+Enter a whole number >2 (ie 19) to test if prime5
+Not prime
+Enter yes to test another number, no to quitEnter a whole number >2 (ie 19) to test if prime5
+Its prime
+Enter yes to test another number, no to quitEnter a whole number >2 (ie 19) to test if prime: 5
+Its prime
+Enter yes to test another number, no to quitEnter a whole number >2 (ie 19) to test if prime: 12
+Not prime
+Enter yes to test another number, no to quit13
+Enter a whole number >2 (ie 19) to test if prime: 15
+Not prime
+Enter yes to test another number, no to quityes
+Enter a whole number >2 (ie 19) to test if prime: 55
+Not prime
+Enter yes to test another number, no to quitYES
+Enter a whole number >2 (ie 19) to test if prime: 25
+Not prime
+Enter yes to test another number, no to quitYES
+Enter a whole number >2 (ie 19) to test if prime: 999239423942
+Enter a whole number >2 (ie 19) to test if prime: 2147483647
+Its prime
+Enter yes to test another number, no to quit2147483647
+Enter a whole number >2 (ie 19) to test if prime: 252
+252 is not prime
+Enter yes to test another number, no to quityes
+Enter a whole number >2 (ie 19) to test if prime: 675
+675 is not prime
+Enter yes to test another number, no to quityes
+Enter a whole number >2 (ie 19) to test if prime: 3
+3is prime
+Enter yes to test another number, no to quitno
+Enter the name of the input file (ie input.txt)happy.txt
+Enter the name of the input file (ie input.txt): input.txt
+Enter the output file name: 
+output.txt
+Grade processing is completed
+Pleaser enter how many seconds to compute: 
+10
+Time(secs) Distance(m)
+========== ===========
+1           4.9
+2           19.6
+3           44.1
+4           78.4
+5           122.50000000000001
+6           176.4
+7           240.10000000000002
+8           313.6
+9           396.90000000000003
+10           490.00000000000006

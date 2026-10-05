@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Oct 04 23:19:43 PDT 2026
+comment0.target=Prime
+comment0.text=\r\n Program Description\r\n 1) Fill in steps\r\n \r\n @author Name, optional email\r\n @version v1.0\r\n @since date\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.params=number
+comment2.target=boolean testForPrime(int)
+comment2.text=\ \r\n This will take an integer and test whether its prime using a for loop, and will output a boolean value\r\n @param number the number to be tested if it is prime or not\r\n @return the result of whether it is prime (true) or not (false)\r\n
+numComments=3

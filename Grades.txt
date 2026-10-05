@@ -1,0 +1,42 @@
+Please enter how many seconds to compute: 
+10
+Time(secs) Distance(m)
+========== ===========
+1		4.9
+2		19.6
+3		44.1
+4		78.4
+5		122.5
+6		176.4
+7		240.1
+8		313.6
+9		396.9
+10		490.0
+Please enter how many seconds to compute: 10
+Time(secs) Distance(m)
+========== ===========
+1		4.9
+2		19.6
+3		44.1
+4		78.4
+5		122.5
+6		176.4
+7		240.1
+8		313.6
+9		396.9
+10		490.0
+Enter a whole number >2 (ie 19) to test if prime: 8
+8 is not prime
+Enter yes to test another number, no to quit yes
+Enter a whole number >2 (ie 19) to test if prime: 19
+19 is prime
+Enter yes to test another number, no to quit no
+Enter the name of the input file (ie input.txt): input.txt
+Enter the output file name: 
+out.txt
+Grade processing is completed
+You can retrieve the output file at, out.txt
+Enter the name of the input file (ie input.txt): input.txt
+Enter the output file name: out.txt
+Grade processing is completed
+You can retrieve the output file at, out.txt

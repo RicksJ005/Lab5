@@ -1,0 +1,14 @@
+#BlueJ class context
+#Sun Oct 04 23:29:34 PDT 2026
+comment0.target=Grades
+comment0.text=\r\n Program Description\r\n 1) Fill in steps\r\n \r\n @author Name, optional email\r\n @version v1.0\r\n @since date\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.target=java.lang.String getInFile()
+comment2.text=\r\n Uses Scanner to get and return input file name\r\n @return name of file from Scanner  \r\n
+comment3.target=java.lang.String getOutFile()
+comment3.text=\r\n Uses Scanner to get and return the output file name\r\n <@return name of file from Scanner\r\n
+comment4.params=inFile outFile
+comment4.target=void processFile(java.lang.String, java.lang.String)
+comment4.text=\r\n Takes an input file from the user using the scanner\r\n Processes the grades counting the amount of As Bs Cs Ds Fs\r\n Outputs the amount of Grades into a file and then calculate the average, and highest and lowest scores.\r\n @param inFile the input file that contains grades to be processed\r\n @param outFile the output file where the processed grades and data ges\r\n \r\n
+numComments=5
